@@ -11,6 +11,7 @@ Personal TryHackMe writeups focused on **methodology, detection, and remediation
 | Room | Difficulty | Category | Key Techniques | Writeup |
 |------|-----------|----------|----------------|---------|
 | Byte Lotus — Poolside | Medium | Boot2Root / Web | NoSQL injection, EJS SSTI, Node inspector abuse, `disk` group privesc | [writeup](./byte-lotus/writeup.md) |
+| CryptoCabana | Medium | Cloud (Azure) | Leaked SAS token, storage enumeration, service-principal credentials, Key Vault secret versioning | [writeup](./cryptocabana/writeup.md) |
 
 ---
 
